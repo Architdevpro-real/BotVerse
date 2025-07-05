@@ -1,0 +1,19 @@
+{
+    "anonymous": {
+        "questions_asked": [
+            "hello",
+            "hello",
+            "hi"
+        ],
+        "verified_answers": [
+            "hello",
+            "hi"
+        ]
+    },
+    "archit": {
+        "questions_asked": [
+            "are you smarter than google"
+        ],
+        "verified_answers": []
+    }
+}
