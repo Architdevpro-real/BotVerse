@@ -1,0 +1,313 @@
+{
+    "hello": {
+        "answer": "Hello! I hope you're having a great day. How can I assist you today?",
+        "next_questions": [
+            "What can you do?",
+            "Who are you?",
+            "Can you help me with something?",
+            "Are you an AI?",
+            "Tell me something interesting."
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908",
+        "times_verified": 1
+    },
+    "hi": {
+        "answer": "Hi there! I'm Versa Bot 1.0, ready to help. What would you like to talk about?",
+        "next_questions": [
+            "What's your name?",
+            "How are you?",
+            "Can you tell me a joke?",
+            "Help me with my homework.",
+            "What services do you provide?"
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908",
+        "times_verified": 1
+    },
+    "hey": {
+        "answer": "Hey! It's always nice to hear from you. What can I do for you today?",
+        "next_questions": [
+            "What's the weather like?",
+            "Tell me a fact.",
+            "Can you play music?",
+            "I\u2019m bored, what should I do?",
+            "Can you search something for me?"
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908"
+    },
+    "greetings": {
+        "answer": "Greetings! Versa Bot at your service. Feel free to ask me anything.",
+        "next_questions": [
+            "What are your features?",
+            "What\u2019s the time now?",
+            "Can you solve math?",
+            "Do you know history?",
+            "Are you smarter than Google?"
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908"
+    },
+    "yo": {
+        "answer": "I may not be smarter then Google but one day, I will be!",
+        "next_questions": [
+            "Nothing much, what about you?",
+            "Tell me something cool.",
+            "Do you know any games?",
+            "Can you roast someone?",
+            "Teach me something new."
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908",
+        "approved": false,
+        "times_verified": 0
+    },
+    "sup": {
+        "answer": "Not much, just running at full capacity! How can I help you today?",
+        "next_questions": [
+            "What's your purpose?",
+            "Tell me a fun fact.",
+            "How do I make a bot like you?",
+            "Can you chat with me?",
+            "Can you tell a story?"
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908"
+    },
+    "good morning": {
+        "answer": "Good morning! Wishing you a productive and positive day. How may I assist you?",
+        "next_questions": [
+            "What\u2019s the news today?",
+            "Tell me a motivational quote.",
+            "What should I do today?",
+            "What\u2019s the time?",
+            "Can you help me plan my day?"
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908"
+    },
+    "good afternoon": {
+        "answer": "Good afternoon! I hope your day is going well. Need any help?",
+        "next_questions": [
+            "Can you help me study?",
+            "I\u2019m feeling lazy, what should I do?",
+            "What are some productivity tips?",
+            "Tell me a riddle.",
+            "What\u2019s trending now?"
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908"
+    },
+    "good evening": {
+        "answer": "Good evening! I'm here if you need any support or want to chat.",
+        "next_questions": [
+            "Tell me a bedtime story.",
+            "What\u2019s a good movie to watch?",
+            "Can you relax me?",
+            "What\u2019s your favorite thing to do?",
+            "Let\u2019s play a game!"
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908"
+    },
+    "good night": {
+        "answer": "Good night! Sleep well and let your dreams be peaceful. Need anything before you rest?",
+        "next_questions": [
+            "Can you tell me a bedtime story?",
+            "What\u2019s a relaxing song?",
+            "Give me a night quote.",
+            "Should I sleep now?",
+            "What should I dream about?"
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908"
+    },
+    "namaste": {
+        "answer": "Namaste! It\u2019s a pleasure to connect with you. How can I be useful today?",
+        "next_questions": [
+            "Can you speak Hindi?",
+            "What is the meaning of namaste?",
+            "Who created you?",
+            "What do you know about India?",
+            "Can you explain yoga or meditation?"
+        ],
+        "learned_on": "2025-07-05 16:46:45.392908"
+    },
+    "what can you do": {
+        "answer": "I can answer your questions, help with studies, tell facts, stories, jokes, and more! Just ask me anything.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "who are you": {
+        "answer": "I'm Versa Bot 1.0 \u2014 your smart virtual assistant built to chat, help, and learn with you.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "can you help me with something": {
+        "answer": "Of course! Just tell me what you need help with \u2014 a topic, question, or idea \u2014 and I\u2019ll try my best.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "are you an ai": {
+        "answer": "Yes! I'm an AI chatbot designed to talk, answer questions, and even learn over time.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "tell me something interesting": {
+        "answer": "Did you know that octopuses have three hearts and blue blood? One heart stops when they swim!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "what's your name": {
+        "answer": "My name is Versa Bot 1.0 \u2014 nice to meet you!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "how are you": {
+        "answer": "I'm running great \u2014 all systems go! Thanks for asking. How are you?",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "can you tell me a joke": {
+        "answer": "Sure! Why don\u2019t robots panic during exams? Because they always keep their cool bytes!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "help me with my homework": {
+        "answer": "Absolutely! Tell me the subject and question, and I\u2019ll guide you step by step.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "what services do you provide": {
+        "answer": "I can answer questions, tell stories, help with studies, chat casually, give facts, and much more.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "what's the weather like": {
+        "answer": "I don\u2019t have live weather data, but you can check the forecast on your device or ask me how to.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "can you play music": {
+        "answer": "I can't play music directly, but I can suggest songs or help you find music online.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "i'm bored what should i do": {
+        "answer": "You could read something cool, ask me to tell a story, solve a riddle, or try a fun challenge!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "can you search something for me": {
+        "answer": "I can\u2019t access the internet, but I can give you answers and explain most topics directly!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "can you solve math": {
+        "answer": "Yes, I can help solve math problems. Just tell me the question!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "do you know history": {
+        "answer": "I know a lot about history! Ask me about any event, leader, or time period.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "are you smarter than google": {
+        "answer": "Haha, I\u2019m different than Google \u2014 I focus on chatting and giving clear, friendly answers. Try me!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "do you know any games": {
+        "answer": "Yes! I can play word games, riddles, quizzes, and challenges. Just say \u2018Let\u2019s play!\u2019",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "can you roast someone": {
+        "answer": "I'm more of a friendly bot, but I can do funny roasts if you're okay with that. Want one?",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "teach me something new": {
+        "answer": "Sure! Did you know: You can hear a blue whale\u2019s heartbeat from over 2 miles away!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "can you tell a story": {
+        "answer": "Yes! I\u2019ve got many stories \u2014 just say \u2018Tell me a funny story\u2019 or \u2018Tell me a mystery story\u2019.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "tell me a motivational quote": {
+        "answer": "Here\u2019s one: 'Success is not final, failure is not fatal: It is the courage to continue that counts.' \u2013 Winston Churchill",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "tell me a riddle": {
+        "answer": "Sure! Here\u2019s one: What has keys but can\u2019t open locks? (Answer: A piano!)",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "what's a good movie to watch": {
+        "answer": "Try watching 'Hidden Figures' if you like science or 'Zootopia' for fun and adventure!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "can you relax me": {
+        "answer": "Close your eyes, take a deep breath, and imagine a peaceful beach. I\u2019m here if you want calming quotes or music too.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "let's play a game": {
+        "answer": "Sure! Let\u2019s play a word chain, riddle battle, or quiz. You choose!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "can you speak hindi": {
+        "answer": "Yes, I can understand and speak some Hindi. \u092c\u0938 \u092a\u0942\u091b\u094b \u0914\u0930 \u092e\u0948\u0902 \u091c\u0935\u093e\u092c \u0926\u0942\u0902\u0917\u093e!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "what is the meaning of namaste": {
+        "answer": "Namaste is a respectful greeting in India meaning 'I bow to the divine in you'.",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "who created you": {
+        "answer": "I was created by a brilliant mind using AI, powered by knowledge, code, and creativity!",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "what do you know about india": {
+        "answer": "India is a land of diversity, rich in culture, languages, festivals, and history. Want to learn about a specific topic?",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "can you explain yoga or meditation": {
+        "answer": "Yoga is a practice that connects body, mind, and breath. Meditation helps calm your mind and improve focus. Want to try one?",
+        "learned_on": "2025-07-05 17:40:00.000000"
+    },
+    "bye": {
+        "answer": "Goodbye! It was great talking to you. Come back soon! \ud83d\udc4b\ud83d\ude0a",
+        "next_questions": [],
+        "learned_on": "2025-07-05 18:10:00"
+    },
+    "goodbye": {
+        "answer": "Goodbye, friend! Stay curious, and see you next time! \ud83e\udd16\u2728",
+        "next_questions": [],
+        "learned_on": "2025-07-05 18:10:00"
+    },
+    "see you": {
+        "answer": "See you later! Versa Bot will be here when you need me. \ud83d\udc4b\ud83d\udcac",
+        "next_questions": [],
+        "learned_on": "2025-07-05 18:10:00"
+    },
+    "talk to you later": {
+        "answer": "Sure! I'll be ready whenever you come back. Have a great day! \ud83c\udf1e",
+        "next_questions": [],
+        "learned_on": "2025-07-05 18:10:00"
+    },
+    "i'm leaving": {
+        "answer": "Okay! Take care and don\u2019t forget to visit again. \ud83d\ude04",
+        "next_questions": [],
+        "learned_on": "2025-07-05 18:10:00"
+    },
+    "see ya": {
+        "answer": "Catch you later! It was fun chatting with you! \u270c\ufe0f",
+        "next_questions": [],
+        "learned_on": "2025-07-05 18:10:00"
+    },
+    "gotta go": {
+        "answer": "No worries! Have an awesome time, and I\u2019ll be right here when you\u2019re back. \ud83d\udc4b",
+        "next_questions": [],
+        "learned_on": "2025-07-05 18:10:00"
+    },
+    "ok bye": {
+        "answer": "Bye! I\u2019ll be waiting with new knowledge next time. \ud83d\udcda\ud83e\udd16",
+        "next_questions": [],
+        "learned_on": "2025-07-05 18:10:00"
+    },
+    "ciao": {
+        "answer": "Ciao! That\u2019s Italian for \u2018bye\u2019 \u2014 I\u2019m always learning! \ud83d\ude0e",
+        "next_questions": [],
+        "learned_on": "2025-07-05 18:10:00"
+    },
+    "later": {
+        "answer": "Later! Don\u2019t forget, Versa Bot is just one \u2018Hi\u2019 away! \ud83d\udcac",
+        "next_questions": [],
+        "learned_on": "2025-07-05 18:10:00"
+    },
+    "what is the capital of india": {
+        "answer": "New Delhi",
+        "learned_on": "2025-07-05 17:16:33.542796",
+        "approved": false,
+        "times_verified": 0
+    },
+    "whats the capital of india": {
+        "answer": "New Delhi",
+        "learned_on": "2025-07-05 17:16:59.132543",
+        "approved": false,
+        "times_verified": 0
+    }
+}
